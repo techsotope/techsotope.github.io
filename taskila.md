@@ -1,4 +1,8 @@
-<meta name="google-site-verification" content="9VCc-dIfU4ypi_DZqqRr638ywN
+<head>
+    <meta name="google-site-verification" content="9VCc-dIfU4ypi_DZqqRr638ywN0uVoTvaHassaXyzH0" />
+    <title>Taskila - Minimalist To-Do List</title>
+</head>
+<body>
 
 # Taskila: To Do List & Tasks
 
@@ -30,3 +34,5 @@ We do not use third-party analytics, tracking networks, or advertising SDKs. You
 
 Changes: Any future updates to this policy will be reflected on this page.
 Contact: techsotope@gmail.com
+
+</body>
