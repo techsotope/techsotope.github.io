@@ -1,3 +1,14 @@
+<meta name="google-site-verification" content="9VCc-dIfU4ypi_DZqqRr638ywN
+
+# Taskila: To Do List & Tasks
+
+Welcome to the official home page for Taskila, a minimalist task management and checklist application developed by Techsotope. Taskila helps you organize your daily schedule, track your habits, and manage your to-do lists efficiently.
+
+**Google Drive Backup Feature:** Taskila Pro allows users to securely back up their checklists to their own hidden Google Drive AppData folder, ensuring your data is always safe and private.
+
+---
+
+
 Privacy Policy for Taskila
 
 Data Collection & Storage: 
